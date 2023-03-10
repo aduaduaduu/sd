@@ -1,6 +1,6 @@
 #  installasi free sd linux (debian)
-1. Download GFPGANv1.4.pth
-2. Download sd-v1-4.ckpt
+1. Download GFPGANv1.4.pth | https://drive.google.com/drive/folders/11k5Y6YGKfgYuWEwX9vE03WXimkxLCX3G?usp=share_link
+2. Download sd-v1-4.ckpt | https://drive.google.com/drive/folders/11k5Y6YGKfgYuWEwX9vE03WXimkxLCX3G?usp=share_link
 3. Clone disembarang folder "git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui"
 4. Masuk dir "/stable-diffusion-webui/"
 5. Create venv menggunakan python3.10
